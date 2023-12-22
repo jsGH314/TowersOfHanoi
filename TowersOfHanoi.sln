@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TowersOfHanoi", "TowersOfHanoi\TowersOfHanoi.pyproj", "{4206A0B3-078F-4A09-9A20-B623FD319187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4206A0B3-078F-4A09-9A20-B623FD319187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4206A0B3-078F-4A09-9A20-B623FD319187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87AD9A45-F94D-4835-9201-DF7633D89C93}
+	EndGlobalSection
+EndGlobal
